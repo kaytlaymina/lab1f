@@ -1,2 +1,2 @@
-pb2 pb2 pb2
+epub epub epub
 pdf pdf pdf
